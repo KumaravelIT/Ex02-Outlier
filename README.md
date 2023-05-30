@@ -1,5 +1,12 @@
 # Ex02-Outlier
 
+# DATE:
+
+GITHUB:https://github.com/KumaravelIT/Ex02-Outlier.git
+
+
+COLAB:https://colab.research.google.com/drive/1ZEdkoDO1I8kmYzYOBVciMmd1ozCvfXW7?usp=sharing
+
 You are given bhp.csv which contains property prices in the city of banglore, India. You need to examine price_per_sqft column and do following,
 
 (1) Remove outliers using IQR 
